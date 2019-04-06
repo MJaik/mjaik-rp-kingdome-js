@@ -1,0 +1,19 @@
+{
+  "compileOptions": {
+    "tardet": "es6",
+    "module": commonjs",
+    "outDir": "dist",
+    "removeComments": true,
+    "strict": true, 
+    "skipLibCheck": true, 
+    "strictNullCheck": true,
+    "noImplicitThis": true,
+    "inlineSourceMap": true
+  },
+  "include": [
+    "scr"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
